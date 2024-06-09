@@ -1,3 +1,40 @@
+# overview
+# First your page will look like this 
+"D:\Screenshots\Screenshot 2024-06-08 210700.png"
+
+# After login as a new user
+"D:\Screenshots\Screenshot 2024-06-09 105251.png"
+
+# it will appear like this 
+
+"D:\Screenshots\Screenshot 2024-06-08 215434.png"
+
+"D:\Screenshots\Screenshot 2024-06-08 213812.png"
+
+"D:\Screenshots\Screenshot 2024-06-08 220809.png"
+
+"D:\Screenshots\Screenshot 2024-06-08 224438.png"
+
+# Cart is Empty Intially if you dont select any items
+
+"D:\Screenshots\Screenshot 2024-06-09 002516.png"
+ # Then after delecting items you will see that will add and appear on your cart
+
+ "D:\Screenshots\Screenshot 2024-06-09 002607.png" 
+
+# when you clicked it all the items appear on it
+
+"D:\Screenshots\Screenshot 2024-06-09 002707.png"
+
+# you will delete items just click on the delete buttons appear on left
+
+"D:\Screenshots\Screenshot 2024-06-09 003338.png"
+
+"D:\Screenshots\Screenshot 2024-06-09 004740.png"
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
