@@ -1,37 +1,45 @@
 # overview
-# First your page will look like this 
-"D:\Screenshots\Screenshot 2024-06-08 210700.png"
+# First your page will look like this
+![Screenshot 2024-06-08 210700](https://github.com/Ayushisri29/Gofood/assets/92778552/0ebb5711-83ec-455d-9770-598463f6ac9a)
+
 
 # After login as a new user
-"D:\Screenshots\Screenshot 2024-06-09 105251.png"
 
-# it will appear like this 
+![Screenshot 2024-06-09 105251](https://github.com/Ayushisri29/Gofood/assets/92778552/732531d4-8057-4500-b1f1-79f9971dc024)
 
-"D:\Screenshots\Screenshot 2024-06-08 215434.png"
 
-"D:\Screenshots\Screenshot 2024-06-08 213812.png"
+# then it will appear like this 
 
-"D:\Screenshots\Screenshot 2024-06-08 220809.png"
+![Screenshot 2024-06-08 215434](https://github.com/Ayushisri29/Gofood/assets/92778552/9f6a20eb-8972-4abb-8602-21845b571c04)
 
-"D:\Screenshots\Screenshot 2024-06-08 224438.png"
+![Screenshot 2024-06-08 213812](https://github.com/Ayushisri29/Gofood/assets/92778552/c1b631ed-2798-43c5-a0de-391a647900ce)
+
+![Screenshot 2024-06-08 220809](https://github.com/Ayushisri29/Gofood/assets/92778552/a3ef5cde-923e-40f3-9003-41538a2ae257)
+
+![Screenshot 2024-06-08 224438](https://github.com/Ayushisri29/Gofood/assets/92778552/96d04ded-29e4-4881-af8f-d7088649d7ab)
+
 
 # Cart is Empty Intially if you dont select any items
 
-"D:\Screenshots\Screenshot 2024-06-09 002516.png"
+![Screenshot 2024-06-09 002516](https://github.com/Ayushisri29/Gofood/assets/92778552/08ecc107-b905-4281-b91e-786a4d73e70c)
+
+
  # Then after delecting items you will see that will add and appear on your cart
 
- "D:\Screenshots\Screenshot 2024-06-09 002607.png" 
+![Screenshot 2024-06-09 002607](https://github.com/Ayushisri29/Gofood/assets/92778552/38aa7e61-d48f-4cfe-a3bd-3296dbf25812)
+
 
 # when you clicked it all the items appear on it
 
-"D:\Screenshots\Screenshot 2024-06-09 002707.png"
+![Screenshot 2024-06-09 002707](https://github.com/Ayushisri29/Gofood/assets/92778552/3311c9fe-c5da-4cd4-aab8-9654a6e1ecf0)
+
 
 # you will delete items just click on the delete buttons appear on left
 
-"D:\Screenshots\Screenshot 2024-06-09 003338.png"
+![Screenshot 2024-06-09 003338](https://github.com/Ayushisri29/Gofood/assets/92778552/05ef87dd-b4df-45eb-b4cb-6ebd7b73923a)
 
-"D:\Screenshots\Screenshot 2024-06-09 004740.png"
 
+![Screenshot 2024-06-09 004740](https://github.com/Ayushisri29/Gofood/assets/92778552/d5e40e29-bf7d-4b87-800d-97a0dd28ac78)
 
 
 
